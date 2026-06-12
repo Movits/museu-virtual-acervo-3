@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2026-06-12T19:47:02.050270-03" version="8.17.3">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">8122</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">8190</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">3</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">jpegload</value>
+    </property>
+    <property>
+      <name>jpeg-multiscan</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>interlaced</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>jpeg-chroma-subsample</name>
+      <value type="VipsRefString">4:4:4</value>
+    </property>
+    <property>
+      <name>resolution-unit</name>
+      <value type="VipsRefString">in</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ImageWidth</name>
+      <value type="VipsRefString">8122 (8122, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ImageLength</name>
+      <value type="VipsRefString">8190 (8190, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-BitsPerSample</name>
+      <value type="VipsRefString">8 8 8 (8, 8, 8, Short, 3 components, 6 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Compression</name>
+      <value type="VipsRefString">1 (Uncompressed, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-PhotometricInterpretation</name>
+      <value type="VipsRefString">2 (RGB, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Make</name>
+      <value type="VipsRefString">FUJIFILM (FUJIFILM, ASCII, 9 components, 9 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Model</name>
+      <value type="VipsRefString">GFX100S (GFX100S, ASCII, 8 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Orientation</name>
+      <value type="VipsRefString">1 (Top-left, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-SamplesPerPixel</name>
+      <value type="VipsRefString">3 (3, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-XResolution</name>
+      <value type="VipsRefString">720000/10000 (72.0000, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-YResolution</name>
+      <value type="VipsRefString">720000/10000 (72.0000, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-PlanarConfiguration</name>
+      <value type="VipsRefString">1 (Planar format, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ResolutionUnit</name>
+      <value type="VipsRefString">2 (Inch, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Software</name>
+      <value type="VipsRefString">Adobe Photoshop CC 2015 (Windows) (Adobe Photoshop CC 2015 (Windows), ASCII, 34 components, 34 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-DateTime</name>
+      <value type="VipsRefString">2024:03:28 21:27:31 (2024:03:28 21:27:31, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Copyright</name>
+      <value type="VipsRefString">[None] (Photographer) - [None] (Editor) ([None] (Photographer) - [None] (Editor), ASCII, 256 components, 256 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd1-Compression</name>
+      <value type="VipsRefString">6 (JPEG compression, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd1-XResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd1-YResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd1-ResolutionUnit</name>
+      <value type="VipsRefString">2 (Inch, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureTime</name>
+      <value type="VipsRefString">10/300 (1/30 sec., Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FNumber</name>
+      <value type="VipsRefString">400/100 (f/4.0, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureProgram</name>
+      <value type="VipsRefString">1 (Manual, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ISOSpeedRatings</name>
+      <value type="VipsRefString">3200 (3200, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SensitivityType</name>
+      <value type="VipsRefString">1 (Standard output sensitivity (SOS), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-StandardOutputSensitivity</name>
+      <value type="VipsRefString">3200 (3200, Long, 1 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExifVersion</name>
+      <value type="VipsRefString">Exif Version 2.32 (Exif Version 2.32, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-DateTimeOriginal</name>
+      <value type="VipsRefString">2024:03:28 01:35:43 (2024:03:28 01:35:43, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-DateTimeDigitized</name>
+      <value type="VipsRefString">2024:03:28 01:35:43 (2024:03:28 01:35:43, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ComponentsConfiguration</name>
+      <value type="VipsRefString">Y Cb Cr - (Y Cb Cr -, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-CompressedBitsPerPixel</name>
+      <value type="VipsRefString">48/10 (4.8, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ShutterSpeedValue</name>
+      <value type="VipsRefString">500/100 (5.00 EV (1/32 sec.), SRational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ApertureValue</name>
+      <value type="VipsRefString">400/100 (4.00 EV (f/4.0), Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-BrightnessValue</name>
+      <value type="VipsRefString">-130/100 (-1.30 EV (1.39 cd/m^2), SRational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureBiasValue</name>
+      <value type="VipsRefString">0/100 (0.00 EV, SRational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-MaxApertureValue</name>
+      <value type="VipsRefString">400/100 (4.00 EV (f/4.0), Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-MeteringMode</name>
+      <value type="VipsRefString">2 (Center-weighted average, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LightSource</name>
+      <value type="VipsRefString">0 (Unknown, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-Flash</name>
+      <value type="VipsRefString">0 (Flash did not fire, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalLength</name>
+      <value type="VipsRefString">7040/100 (70.4 mm, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-UserComment</name>
+      <value type="VipsRefString">                                                                                                                                                                                                                                                         (                                                                                                                                                                                                                                                        , Undefined, 256 components, 256 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FlashpixVersion</name>
+      <value type="VipsRefString">FlashPix Version 1.0 (FlashPix Version 1.0, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ColorSpace</name>
+      <value type="VipsRefString">1 (sRGB, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-PixelXDimension</name>
+      <value type="VipsRefString">8122 (8122, Long, 1 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-PixelYDimension</name>
+      <value type="VipsRefString">8190 (8190, Long, 1 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalPlaneXResolution</name>
+      <value type="VipsRefString">2660/1 (2660, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalPlaneYResolution</name>
+      <value type="VipsRefString">2660/1 (2660, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalPlaneResolutionUnit</name>
+      <value type="VipsRefString">3 (Centimeter, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SensingMethod</name>
+      <value type="VipsRefString">2 (One-chip color area sensor, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FileSource</name>
+      <value type="VipsRefString">DSC (DSC, Undefined, 1 components, 1 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SceneType</name>
+      <value type="VipsRefString">Directly photographed (Directly photographed, Undefined, 1 components, 1 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-CustomRendered</name>
+      <value type="VipsRefString">0 (Normal process, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureMode</name>
+      <value type="VipsRefString">1 (Manual exposure, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-WhiteBalance</name>
+      <value type="VipsRefString">0 (Auto white balance, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalLengthIn35mmFilm</name>
+      <value type="VipsRefString">56 (56, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SceneCaptureType</name>
+      <value type="VipsRefString">0 (Standard, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-Sharpness</name>
+      <value type="VipsRefString">0 (Normal, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SubjectDistanceRange</name>
+      <value type="VipsRefString">0 (Unknown, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-BodySerialNumber</name>
+      <value type="VipsRefString">24003534 (24003534, ASCII, 11 components, 11 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensSpecification</name>
+      <value type="VipsRefString">4500/100 10000/100 400/100 400/100 (45.00, 100.00, 4.00, 4.00, Rational, 4 components, 32 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensMake</name>
+      <value type="VipsRefString">FUJIFILM (FUJIFILM, ASCII, 13 components, 13 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensModel</name>
+      <value type="VipsRefString">GF45-100mmF4 R LM OIS WR (GF45-100mmF4 R LM OIS WR, ASCII, 64 components, 64 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensSerialNumber</name>
+      <value type="VipsRefString">36A00883 (36A00883, ASCII, 11 components, 11 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-CompositeImage</name>
+      <value type="VipsRefString">1 (Not a composite image, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd4-InteroperabilityIndex</name>
+      <value type="VipsRefString">R98 (R98, ASCII, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd4-InteroperabilityVersion</name>
+      <value type="VipsRefString">0100 (0100, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>orientation</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>vips-sequential</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>loop</name>
+      <value type="gint">1</value>
+    </property>
+  </properties>
+</image>
